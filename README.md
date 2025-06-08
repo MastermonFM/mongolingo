@@ -1,5 +1,5 @@
 # Mongolingo - Projet NoSQL BUT Info Vannes 2025
-# Etudiant : LE PROVOST Louen - Groupe 2C
+Etudiant : LE PROVOST Louen - Groupe 2C
 
 ## Description
 Mongolingo est une application web en React pour apprendre les requêtes MongoDB à travers des quiz interactifs, dans le contexte d’un tournoi VGC Pokémon (2 contre 2).
