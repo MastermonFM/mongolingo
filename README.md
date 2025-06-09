@@ -24,7 +24,7 @@ Mongolingo est une application web en React pour apprendre les requêtes MongoDB
 
 3. **Cloner le projet** :
    ```
-   git clone <votre-repo-git> mongolingo
+   git clone https://github.com/MastermonFM/mongolingo.git mongolingo
    cd mongolingo
    ```
 
@@ -62,7 +62,7 @@ Mongolingo est une application web en React pour apprendre les requêtes MongoDB
    npm start
    ```
 
-3. Ouvrir l’application dans un navigateur : `http://localhost:3000`
+3. Ouvrir l’application dans un navigateur : `http://localhost:5000`
 
 ## Fonctionnalités
 - Quiz interactifs avec 30 requêtes MongoDB (simples à complexes).
