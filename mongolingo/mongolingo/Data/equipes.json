@@ -1,0 +1,74 @@
+[
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f678901245')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901250')",
+            "ObjectId('66f4a1b2c3d4e5f678901251')",
+            "ObjectId('66f4a1b2c3d4e5f678901252')",
+            "ObjectId('66f4a1b2c3d4e5f678901253')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f678901246')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901254')",
+            "ObjectId('66f4a1b2c3d4e5f678901255')",
+            "ObjectId('66f4a1b2c3d4e5f678901256')",
+            "ObjectId('66f4a1b2c3d4e5f678901257')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f678901247')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901258')",
+            "ObjectId('66f4a1b2c3d4e5f678901259')",
+            "ObjectId('66f4a1b2c3d4e5f67890125a')",
+            "ObjectId('66f4a1b2c3d4e5f67890125b')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f678901248')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f67890125c')",
+            "ObjectId('66f4a1b2c3d4e5f67890125d')",
+            "ObjectId('66f4a1b2c3d4e5f67890125e')",
+            "ObjectId('66f4a1b2c3d4e5f67890125f')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f678901249')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901260')",
+            "ObjectId('66f4a1b2c3d4e5f678901261')",
+            "ObjectId('66f4a1b2c3d4e5f678901262')",
+            "ObjectId('66f4a1b2c3d4e5f678901263')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f67890124a')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901264')",
+            "ObjectId('66f4a1b2c3d4e5f678901265')",
+            "ObjectId('66f4a1b2c3d4e5f678901266')",
+            "ObjectId('66f4a1b2c3d4e5f678901267')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f67890124b')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f678901268')",
+            "ObjectId('66f4a1b2c3d4e5f678901269')",
+            "ObjectId('66f4a1b2c3d4e5f67890126a')",
+            "ObjectId('66f4a1b2c3d4e5f67890126b')"
+          ]
+        },
+        {
+          "equipe_id": "ObjectId('66f4a1b2c3d4e5f67890124c')",
+          "pokemons": [
+            "ObjectId('66f4a1b2c3d4e5f67890126c')",
+            "ObjectId('66f4a1b2c3d4e5f67890126d')",
+            "ObjectId('66f4a1b2c3d4e5f67890126e')",
+            "ObjectId('66f4a1b2c3d4e5f67890126f')"
+          ]
+        }
+      ]

@@ -1,0 +1,83 @@
+[
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901240')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901234')",
+            "ObjectId('66f4a1b2c3d4e5f678901235')"
+          ],
+          "parties_jouees": 10,
+          "victoires": 7
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901241')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901236')",
+            "ObjectId('66f4a1b2c3d4e5f678901237')"
+          ],
+          "parties_jouees": 8,
+          "victoires": 5
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901242')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901234')",
+            "ObjectId('66f4a1b2c3d4e5f678901238')"
+          ],
+          "parties_jouees": 6,
+          "victoires": 4
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901243')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901239')",
+            "ObjectId('66f4a1b2c3d4e5f67890123a')"
+          ],
+          "parties_jouées": 7,
+          "victoires": 3
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901244')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f67890123b')",
+            "ObjectId('66f4a1b2c3d4e5f67890123c')"
+          ],
+          "parties_jouées": 9,
+          "victoires": 6
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901245')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f67890123d')",
+            "ObjectId('66f4a1b2c3d4e5f67890123e')"
+          ],
+          "parties_jouées": 5,
+          "victoires": 2
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901246')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f67890123f')",
+            "ObjectId('66f4a1b2c3d4e5f678901240')"
+          ],
+          "parties_jouées": 8,
+          "victoires": 5
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901247')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901241')",
+            "ObjectId('66f4a1b2c3d4e5f678901242')"
+          ],
+          "parties_jouées": 6,
+          "victoires": 4
+        },
+        {
+          "duo_id": "ObjectId('66f4a1b2c3d4e5f678901248')",
+          "joueurs": [
+            "ObjectId('66f4a1b2c3d4e5f678901242')",
+            "ObjectId('66f4a1b2c3d4e5f678901243')"
+          ],
+          "parties_jouées": 7,
+          "victoires": 3
+        }
+      ]

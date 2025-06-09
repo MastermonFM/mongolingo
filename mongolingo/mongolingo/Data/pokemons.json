@@ -1,0 +1,114 @@
+[
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901250')",
+          "pokemon_nom": "Dracaufeu",
+          "attaques": ["Flamme Bleue", "Dracogriffe", "Abri", "Séisme"],
+          "talent": "Brasier",
+          "objet": "Charbon"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901251')",
+          "pokemon_nom": "Tortank",
+          "attaques": ["Hydrocanon", "Laser Glace", "Abri", "Coque Armure"],
+          "talent": "Torrent",
+          "objet": "Orbe Vie"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901252')",
+          "pokemon_nom": "Raichu",
+          "attaques": ["Tonnerre", "Queue de Fer", "Abri", "Vive-Attaque"],
+          "talent": "Statik",
+          "objet": "Lunettes Choix"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901253')",
+          "pokemon_nom": "Dracolosse",
+          "attaques": ["Dracogriffe", "Séisme", "Vitesse Extrême", "Danse Draco"],
+          "talent": "Multiécaille",
+          "objet": "Baie Sitrus"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901254')",
+          "pokemon_nom": "Carchacrok",
+          "attaques": ["Dracogriffe", "Séisme", "Lame de Roc", "Abri"],
+          "talent": "Peau Dure",
+          "objet": "Ceinture Force"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901255')",
+          "pokemon_nom": "Florizarre",
+          "attaques": ["Tempête Verte", "Bombe Beurk", "Abri", "Synthèse"],
+          "talent": "Engrais",
+          "objet": "Restes"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901256')",
+          "pokemon_nom": "Léviator",
+          "attaques": ["Cascade", "Dracogriffe", "Danse Draco", "Abri"],
+          "talent": "Intimidation",
+          "objet": "Baie Mago"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901257')",
+          "pokemon_nom": "Noacier",
+          "attaques": ["Gyroballe", "Canon Graine", "Abri", "Vampigraine"],
+          "talent": "Épine de Fer",
+          "objet": "Casque Brut"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901258')",
+          "pokemon_nom": "Carchacrok",
+          "attaques": ["Dracogriffe", "Séisme", "Danse-Lames", "Abri"],
+          "talent": "Voile Sable",
+          "objet": "Bandeau Choix"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f678901259')",
+          "pokemon_nom": "Rhinastoc",
+          "attaques": ["Lame de Roc", "Séisme", "Mégacorne", "Abri"],
+          "talent": "Paratonnerre",
+          "objet": "Roche Lisse"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125a')",
+          "pokemon_nom": "Togekiss",
+          "attaques": ["Lame d’Air", "Pouvoir Lunaire", "Abri", "Éclat Magique"],
+          "talent": "Sérénité",
+          "objet": "Lunettes Sages"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125b')",
+          "pokemon_nom": "Arcanin",
+          "attaques": ["Boutefeu", "Vitesse Extrême", "Abri", "Morsure"],
+          "talent": "Intimidation",
+          "objet": "Baie Sitrus"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125c')",
+          "pokemon_nom": "Métalosse",
+          "attaques": ["Poing Météor", "Psykoud’Boul", "Abri", "Séisme"],
+          "talent": "Corps Sain",
+          "objet": "Orbe Vie"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125d')",
+          "pokemon_nom": "Électhor",
+          "attaques": ["Tonnerre", "Canicule", "Abri", "Ouragan"],
+          "talent": "Pression",
+          "objet": "Bandeau Choix"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125e')",
+          "pokemon_nom": "Galvagon",
+          "attaques": ["Tonnerre", "Dracochoc", "Abri", "Vive-Attaque"],
+          "talent": "Moteur Électrique",
+          "objet": "Restes"
+        },
+        {
+          "pokemon_id": "ObjectId('66f4a1b2c3d4e5f67890125f')",
+          "pokemon_nom": "Milobellus",
+          "attaques": ["Hydroqueue", "Laser Glace", "Abri", "Voile Miroir"],
+          "talent": "Écaille Spéciale",
+          "objet": "Baie Mago"
+        }
+      ]

@@ -1,0 +1,80 @@
+[
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901260')",
+          "jeu_nom": "Pokémon Rouge Bleu Jaune",
+          "generation": "1",
+          "plateforme": "Game Boy"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901261')",
+          "jeu_nom": "Pokémon Or Argent Cristal",
+          "generation": "2",
+          "plateforme": "Game Boy Color"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901262')",
+          "jeu_nom": "Pokémon Rubis Saphir Émeraude",
+          "generation": "3",
+          "plateforme": "Game Boy Advance"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901263')",
+          "jeu_nom": "Pokémon Rouge Feu et Vert Feuille",
+          "generation": "3",
+          "plateforme": "Game Boy Advance"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901264')",
+          "jeu_nom": "Pokémon Diamant Perle Platine",
+          "generation": "4",
+          "plateforme": "Nintendo DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901265')",
+          "jeu_nom": "Pokémon Or Heartgold et Argent Soulsilver",
+          "generation": "4",
+          "plateforme": "Nintendo DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901266')",
+          "jeu_nom": "Pokémon Noir et Blanc",
+          "generation": "5",
+          "plateforme": "Nintendo DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901267')",
+          "jeu_nom": "Pokémon Noir 2 et Blanc 2",
+          "generation": "5",
+          "plateforme": "Nintendo DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901268')",
+          "jeu_nom": "Pokémon X et Y",
+          "generation": "6",
+          "plateforme": "Nintendo 3DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f678901269')",
+          "jeu_nom": "Pokémon Saphir Alpha et Rubis Oméga",
+          "generation": "6",
+          "plateforme": "Nintendo 3DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f67890126a')",
+          "jeu_nom": "Pokémon Soleil et Lune",
+          "generation": "7",
+          "plateforme": "Nintendo 3DS"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f67890126b')",
+          "jeu_nom": "Pokémon Épée et Bouclier",
+          "generation": "8",
+          "plateforme": "Nintendo Switch"
+        },
+        {
+          "jeu_id": "ObjectId('66f4a1b2c3d4e5f67890126c')",
+          "jeu_nom": "Pokémon Écarlate et Violet",
+          "generation": "9",
+          "plateforme": "Nintendo Switch"
+        }
+      ]

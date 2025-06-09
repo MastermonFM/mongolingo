@@ -1,0 +1,137 @@
+[
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901234')",
+          "pseudo": "Jean-François Kamp",
+          "email": "jf.kamp@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901240')", "ObjectId('66f4a1b2c3d4e5f678901242')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901245')"],
+          "jeux": [
+            "ObjectId('66f4a1b2c3d4e5f678901260')",
+            "ObjectId('66f4a1b2c3d4e5f678901261')",
+            "ObjectId('66f4a1b2c3d4e5f678901262')"
+          ]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901235')",
+          "pseudo": "Goulven Kerbellec",
+          "email": "goulven.k@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901240')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901245')"],
+          "jeux": [
+            "ObjectId('66f4a1b2c3d4e5f678901260')",
+            "ObjectId('66f4a1b2c3d4e5f678901263')"
+          ]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901236')",
+          "pseudo": "Thibaut Godin",
+          "email": "thibaut.godin@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901241')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901246')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901264')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901237')",
+          "pseudo": "Chouki Tibermacine",
+          "email": "chouki.t@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901241')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901246')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901265')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901238')",
+          "pseudo": "Siam Bouchelaghem",
+          "email": "siam.b@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901242')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901247')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901266')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901239')",
+          "pseudo": "Lucie Naert",
+          "email": "lucie.n@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901243')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901247')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901267')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123a')",
+          "pseudo": "Tom Ferragut",
+          "email": "tom.f@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901243')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901248')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901268')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123b')",
+          "pseudo": "Sophie Raut",
+          "email": "sophie.r@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901244')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901248')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901269')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123c')",
+          "pseudo": "Hélène Tuffigo",
+          "email": "helene.t@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901244')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901249')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901260')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123d')",
+          "pseudo": "Phillipe Tonin",
+          "email": "phillipe.t@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901245')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f678901249')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901261')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123e')",
+          "pseudo": "Elodie Lemaître",
+          "email": "elodie.l@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901245')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124a')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901262')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f67890123f')",
+          "pseudo": "Mathieu Le Lain",
+          "email": "mathieu.ll@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901246')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124a')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901263')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901240')",
+          "pseudo": "Pascal Baudont",
+          "email": "pascal.b@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901246')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124b')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901264')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901241')",
+          "pseudo": "Minh-Tan Pham",
+          "email": "minh.pham@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901247')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124b')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901265')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901242')",
+          "pseudo": "Nicolas Le Sommer",
+          "email": "nicolas.ls@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901247')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124c')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901266')"]
+        },
+        {
+          "joueur_id": "ObjectId('66f4a1b2c3d4e5f678901243')",
+          "pseudo": "Régis Fleurquin",
+          "email": "regis.f@gmail.com",
+          "duos": ["ObjectId('66f4a1b2c3d4e5f678901248')"],
+          "equipes": ["ObjectId('66f4a1b2c3d4e5f67890124c')"],
+          "jeux": ["ObjectId('66f4a1b2c3d4e5f678901267')"]
+        }
+      ]
